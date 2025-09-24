@@ -22,3 +22,6 @@ from scratch, spells out **backpropagation step by step**, and makes gradients v
    ```bash
    git clone https://github.com/YOURUSERNAME/zero-to-hired-backprop.git
    cd zero-to-hired-backprop
+<img width="1277" height="468" alt="image" src="https://github.com/user-attachments/assets/92130917-0d86-48af-8346-3ef547dfd6ae" />
+<img width="1300" height="462" alt="image" src="https://github.com/user-attachments/assets/9cc6ffaa-8db3-48fb-9b1a-29a0dc086154" />
+
